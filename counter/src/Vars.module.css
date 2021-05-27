@@ -1,0 +1,8 @@
+:root {
+  --css-variable: blue;
+  --css2-variable: red;
+}
+
+:export {
+  red: 20px;
+}
